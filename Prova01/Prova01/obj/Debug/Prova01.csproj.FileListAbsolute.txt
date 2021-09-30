@@ -1,0 +1,10 @@
+D:\Visual Studio\Prova01\Prova01\bin\Debug\Prova01.exe.config
+D:\Visual Studio\Prova01\Prova01\bin\Debug\Prova01.exe
+D:\Visual Studio\Prova01\Prova01\bin\Debug\Prova01.pdb
+D:\Visual Studio\Prova01\Prova01\obj\Debug\Prova01.csproj.AssemblyReference.cache
+D:\Visual Studio\Prova01\Prova01\obj\Debug\Prova01.Form1.resources
+D:\Visual Studio\Prova01\Prova01\obj\Debug\Prova01.Properties.Resources.resources
+D:\Visual Studio\Prova01\Prova01\obj\Debug\Prova01.csproj.GenerateResource.cache
+D:\Visual Studio\Prova01\Prova01\obj\Debug\Prova01.csproj.CoreCompileInputs.cache
+D:\Visual Studio\Prova01\Prova01\obj\Debug\Prova01.exe
+D:\Visual Studio\Prova01\Prova01\obj\Debug\Prova01.pdb
